@@ -1,0 +1,4 @@
+pygame==2.6.1
+python-chess==1.999
+
+-FEITO POR @joaorizzo0112
